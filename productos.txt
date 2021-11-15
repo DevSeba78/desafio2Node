@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "algo nuevo",
+    "price": 100,
+    "thumbnail": "url5"
+  },
+  {
+    "id": 2,
+    "title": "algo nuevo",
+    "price": 100,
+    "thumbnail": "url5"
+  },
+  {
+    "id": 3,
+    "title": "algo nuevo",
+    "price": 100,
+    "thumbnail": "url5"
+  },
+  {
+    "id": 4,
+    "title": "algo nuevo",
+    "price": 100,
+    "thumbnail": "url5"
+  }
+]
